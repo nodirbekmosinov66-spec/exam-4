@@ -1,0 +1,12 @@
+[
+  {"id": 1, "question": "Python qachon yaratilgan?", "options": ["1991", "1995", "2000", "1989"], "correct": "1991"},
+  {"id": 2, "question": "HTML nima?", "options": ["HyperText Markup Language", "HighText Machine Language", "HyperTotal Mark Language", "Dasturlash tili"], "correct": "HyperText Markup Language"},
+  {"id": 3, "question": "O'zbekiston poytaxti qaysi shahar?", "options": ["Toshkent", "Samarqand", "Buxoro", "Andijon"], "correct": "Toshkent"},
+  {"id": 4, "question": "Qaysi biri ma'lumotlar bazasi?", "options": ["SQLite", "Python", "HTML", "CSS"], "correct": "SQLite"},
+  {"id": 5, "question": "Bot yaratish uchun qaysi kutubxona ishlatiladi?", "options": ["aiogram", "requests", "math", "os"], "correct": "aiogram"},
+  {"id": 6, "question": "2x2 necha bo'ladi?", "options": ["4", "5", "3", "2"], "correct": "4"},
+  {"id": 7, "question": "Dunyodagi eng katta okean qaysi?", "options": ["Tinch okeani", "Atlantika okeani", "Hind okeani", "Shimaliy muz okeani"], "correct": "Tinch okeani"},
+  {"id": 8, "question": "CPU nima?", "options": ["Markaziy protsessor", "Xotira kartasi", "Monitor", "Klaviatura"], "correct": "Markaziy protsessor"},
+  {"id": 9, "question": "Yil nechta fasldan iborat?", "options": ["4", "12", "365", "7"], "correct": "4"},
+  {"id": 10, "question": "IP manzil nima?", "options": ["Tarmoq manzili", "Ism", "Parol", "Fayl formati"], "correct": "Tarmoq manzili"}
+]
